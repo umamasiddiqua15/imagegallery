@@ -1,2 +1,5 @@
 # imagegallery
-image gallery 
+image gallery Using 
+HTML
+CSS 
+Js
